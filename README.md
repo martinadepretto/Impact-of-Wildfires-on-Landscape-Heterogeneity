@@ -1,0 +1,1 @@
+# Impact-of-Wildfires-on-Landscape-Heterogeneity
