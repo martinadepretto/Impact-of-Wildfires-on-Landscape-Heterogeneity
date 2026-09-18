@@ -11,3 +11,11 @@ Tasseled Cap Brightness (TCTB)
 Tasseled Cap Wetness (TCTW)
 
 Annual EFA raster datasets were generated in Google Earth Engine by calculating the temporal median of available observations for each pixel within each calendar year from 2000 to 2024. The resulting annual rasters were subsequently analysed in R.
+
+
+Open the folders in the following order:
+
+1. fire_regime_cluster_analysis_github
+2. github_efa_wildfire_analysis_revised
+3. local_postfire_heterogeneity_github
+
