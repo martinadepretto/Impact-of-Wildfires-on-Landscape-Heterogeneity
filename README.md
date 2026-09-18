@@ -1,5 +1,5 @@
 # Impact-of-Wildfires-on-Landscape-Heterogeneity
-Wildfire and Functional Landscape Heterogeneity in Mainland Portugal
+Assessing the Impact of Wildfires on Landscape Heterogeneity — a Multi-Indicator Remote Sensing Analysis using Ecosystem Functioning Attributes for mainland Portugal
 
 This repository contains the R scripts used to analyse the relationship between wildfire regimes and the spatial heterogeneity of ecosystem functioning across mainland Portugal.
 
